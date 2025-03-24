@@ -1,3 +1,4 @@
+/* working for the whole pages*/
 * {
     margin: 0;
     padding: 0;
@@ -37,6 +38,9 @@ nav ul li a {
     color: black;
     font-size: 18px;
 }
+
+
+/* css for the first page starts from here */
 
 .hero {
     display: flex;
